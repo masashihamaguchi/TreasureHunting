@@ -6,8 +6,13 @@ import android.net.Uri
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.provider.MediaStore
+import android.util.Log
 import android.widget.Button
 import android.widget.ImageView
+import com.google.mlkit.vision.common.InputImage
+import com.google.mlkit.vision.label.ImageLabeling
+import com.google.mlkit.vision.label.defaults.ImageLabelerOptions
+import java.io.IOException
 import java.text.SimpleDateFormat
 import java.util.*
 
@@ -49,6 +54,30 @@ class DetailActivity : AppCompatActivity() {
         if(requestCode == 200 && resultCode == AppCompatActivity.RESULT_OK) {
             imageView.setImageURI(_imageUri)
         }
+        checkLabel()
     }
 
+    private fun checkLabel() {
+        val image: InputImage
+        try {
+            image = InputImage.fromFilePath(this, _imageUri)
+            val labeler = ImageLabeling.getClient(ImageLabelerOptions.DEFAULT_OPTIONS)
+            labeler.process(image)
+                .addOnSuccessListener { labels ->
+                    // Task completed successfully
+                    for (label in labels) {
+                        val text = label.text
+                        val confidence = label.confidence
+                        val index = label.index
+                        Log.d("tagtag", "$text$confidence  $index")
+                    }
+                }
+                .addOnFailureListener { e ->
+                    // Task failed with an exception
+                    Log.e("tagtag", "connection with ml kit failed")
+                }
+        } catch (e: IOException) {
+            e.printStackTrace()
+        }
+    }
 }
