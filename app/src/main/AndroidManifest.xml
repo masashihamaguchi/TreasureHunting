@@ -12,7 +12,7 @@
             android:supportsRtl="true"
             android:theme="@style/Theme.TreasureHunting">
 
-        <activity android:name=".ListActivity"/ >
+        <activity android:name=".ListActivity" />
 
         <activity
                 android:name=".DetailActivity"
