@@ -1,0 +1,185 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/masashihamaguchi/Development/Android/OriginalApp/TreasureHunting/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/masashihamaguchi/Development/Android/OriginalApp/TreasureHunting/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/masashihamaguchi/Development/Android/OriginalApp/TreasureHunting/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/masashihamaguchi/Development/Android/OriginalApp/TreasureHunting/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/71bfed1bfc4d00f85884850958189b82/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.4.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/47be8b7810dec9bb1e6fd5721c273faf/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/masashihamaguchi/.gradle/caches/transforms-3/7d5f0426a1aded3112bf20d4363baa4a/transformed/constraintlayout-2.1.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/masashihamaguchi/.gradle/caches/transforms-3/c340e95fb5b18908836650580904b34c/transformed/appcompat-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/4a07c7798fecbbb7706a017308c7e47a/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/masashihamaguchi/.gradle/caches/transforms-3/df513f6e70378233b404feda42911eb2/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/masashihamaguchi/.gradle/caches/transforms-3/e375d1df2027126e2ba7dd80304a5e30/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/masashihamaguchi/.gradle/caches/transforms-3/4c333a0b30c5d26eccf40551d771a027/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/5ba78ab405074ca360f1e57543fde04f/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/5d616150e66fd6669dda5a7ee2ef06d4/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/dbd1aa41e3125f9581319ed2b8a22a11/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/3334970733627ca1f477f5932bb249be/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/a18fbd449bf8d528ba3fcbee2ca45c3b/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/a5e54fe3127c15a816190b94f7f6ad62/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/daba09e84f8416c9a0701158928fc9b7/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/ef160582d9ced6a6afb1b8a9b34d28e4/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/06be0f79d1a9ee8097f6edd392c10ed8/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/7e598fe5274f7c88281a3735feeaf38a/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/e10175d6784b7193fc1cf54db3f6a662/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/d8a445fabc2a888f7e88475a3dcd8577/transformed/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/cdea62176c5344ba01a047473a51661d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/masashihamaguchi/.gradle/caches/transforms-3/bd62a4f6593bf314d33a647621f66cab/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/6175808707332d623f043378b1a7a046/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/masashihamaguchi/.gradle/caches/transforms-3/dff0ee1e67a355b7a8c0ab15308bf93c/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/masashihamaguchi/.gradle/caches/transforms-3/346e245ee5303127616013f4129c07fb/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/34ac0e127232cb4c074c6b9300617ac5/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/masashihamaguchi/.gradle/caches/transforms-3/193ef0a0ab421773242fea2b8974b7fb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/385e8ce12d1371bff230eca63def0f68/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/1ae2bd3ff9a09cb6fd5893b299d15a2b/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/masashihamaguchi/.gradle/caches/transforms-3/32d5f815a23307d03ee8d8282862d847/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/52125dcc3f2f02d877ea896705f55097/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/f18410acc3e6944b348ee3d2709a2e52/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/814791cd8f4ea84cc1f9795fcb45c33f/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/7946a530e1ad1ca946cceb70b8b7633b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/e9b3f6db90cf33f87f20639860e50643/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/700dd1aa384a85d83c13b368db16bc17/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/masashihamaguchi/Development/Android/OriginalApp/TreasureHunting/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/masashihamaguchi/Development/Android/OriginalApp/TreasureHunting/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/masashihamaguchi/Development/Android/OriginalApp/TreasureHunting/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/masashihamaguchi/Development/Android/OriginalApp/TreasureHunting/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /Users/masashihamaguchi/Development/Android/OriginalApp/TreasureHunting/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/masashihamaguchi/Development/Android/OriginalApp/TreasureHunting/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/masashihamaguchi/Development/Android/OriginalApp/TreasureHunting/app/src/main/AndroidManifest.xml
+		ADDED from /Users/masashihamaguchi/Development/Android/OriginalApp/TreasureHunting/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/masashihamaguchi/Development/Android/OriginalApp/TreasureHunting/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/masashihamaguchi/Development/Android/OriginalApp/TreasureHunting/app/src/main/AndroidManifest.xml
+		ADDED from /Users/masashihamaguchi/Development/Android/OriginalApp/TreasureHunting/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/masashihamaguchi/Development/Android/OriginalApp/TreasureHunting/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/masashihamaguchi/Development/Android/OriginalApp/TreasureHunting/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/masashihamaguchi/Development/Android/OriginalApp/TreasureHunting/app/src/main/AndroidManifest.xml:5:5-21:19
+MERGED from [com.google.android.material:material:1.4.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/47be8b7810dec9bb1e6fd5721c273faf/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/47be8b7810dec9bb1e6fd5721c273faf/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/masashihamaguchi/.gradle/caches/transforms-3/7d5f0426a1aded3112bf20d4363baa4a/transformed/constraintlayout-2.1.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/masashihamaguchi/.gradle/caches/transforms-3/7d5f0426a1aded3112bf20d4363baa4a/transformed/constraintlayout-2.1.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.6.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/d8a445fabc2a888f7e88475a3dcd8577/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/d8a445fabc2a888f7e88475a3dcd8577/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/masashihamaguchi/.gradle/caches/transforms-3/193ef0a0ab421773242fea2b8974b7fb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/masashihamaguchi/.gradle/caches/transforms-3/193ef0a0ab421773242fea2b8974b7fb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/d8a445fabc2a888f7e88475a3dcd8577/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/masashihamaguchi/Development/Android/OriginalApp/TreasureHunting/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/masashihamaguchi/Development/Android/OriginalApp/TreasureHunting/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/masashihamaguchi/Development/Android/OriginalApp/TreasureHunting/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/masashihamaguchi/Development/Android/OriginalApp/TreasureHunting/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/masashihamaguchi/Development/Android/OriginalApp/TreasureHunting/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/masashihamaguchi/Development/Android/OriginalApp/TreasureHunting/app/src/main/AndroidManifest.xml:11:9-53
+activity#com.picopico.treasurehunting.StartActivity
+ADDED from /Users/masashihamaguchi/Development/Android/OriginalApp/TreasureHunting/app/src/main/AndroidManifest.xml:12:9-20:20
+	android:exported
+		ADDED from /Users/masashihamaguchi/Development/Android/OriginalApp/TreasureHunting/app/src/main/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from /Users/masashihamaguchi/Development/Android/OriginalApp/TreasureHunting/app/src/main/AndroidManifest.xml:13:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/masashihamaguchi/Development/Android/OriginalApp/TreasureHunting/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/masashihamaguchi/Development/Android/OriginalApp/TreasureHunting/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/masashihamaguchi/Development/Android/OriginalApp/TreasureHunting/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/masashihamaguchi/Development/Android/OriginalApp/TreasureHunting/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/masashihamaguchi/Development/Android/OriginalApp/TreasureHunting/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /Users/masashihamaguchi/Development/Android/OriginalApp/TreasureHunting/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/masashihamaguchi/Development/Android/OriginalApp/TreasureHunting/app/src/main/AndroidManifest.xml
+INJECTED from /Users/masashihamaguchi/Development/Android/OriginalApp/TreasureHunting/app/src/main/AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/71bfed1bfc4d00f85884850958189b82/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/71bfed1bfc4d00f85884850958189b82/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.4.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/47be8b7810dec9bb1e6fd5721c273faf/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/47be8b7810dec9bb1e6fd5721c273faf/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/masashihamaguchi/.gradle/caches/transforms-3/7d5f0426a1aded3112bf20d4363baa4a/transformed/constraintlayout-2.1.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/masashihamaguchi/.gradle/caches/transforms-3/7d5f0426a1aded3112bf20d4363baa4a/transformed/constraintlayout-2.1.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/masashihamaguchi/.gradle/caches/transforms-3/c340e95fb5b18908836650580904b34c/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/masashihamaguchi/.gradle/caches/transforms-3/c340e95fb5b18908836650580904b34c/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/4a07c7798fecbbb7706a017308c7e47a/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/4a07c7798fecbbb7706a017308c7e47a/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/masashihamaguchi/.gradle/caches/transforms-3/df513f6e70378233b404feda42911eb2/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/masashihamaguchi/.gradle/caches/transforms-3/df513f6e70378233b404feda42911eb2/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/masashihamaguchi/.gradle/caches/transforms-3/e375d1df2027126e2ba7dd80304a5e30/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/masashihamaguchi/.gradle/caches/transforms-3/e375d1df2027126e2ba7dd80304a5e30/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/masashihamaguchi/.gradle/caches/transforms-3/4c333a0b30c5d26eccf40551d771a027/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/masashihamaguchi/.gradle/caches/transforms-3/4c333a0b30c5d26eccf40551d771a027/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/5ba78ab405074ca360f1e57543fde04f/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/5ba78ab405074ca360f1e57543fde04f/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/5d616150e66fd6669dda5a7ee2ef06d4/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/5d616150e66fd6669dda5a7ee2ef06d4/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/dbd1aa41e3125f9581319ed2b8a22a11/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/dbd1aa41e3125f9581319ed2b8a22a11/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/3334970733627ca1f477f5932bb249be/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/3334970733627ca1f477f5932bb249be/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/a18fbd449bf8d528ba3fcbee2ca45c3b/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/a18fbd449bf8d528ba3fcbee2ca45c3b/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/a5e54fe3127c15a816190b94f7f6ad62/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/a5e54fe3127c15a816190b94f7f6ad62/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/daba09e84f8416c9a0701158928fc9b7/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/daba09e84f8416c9a0701158928fc9b7/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/ef160582d9ced6a6afb1b8a9b34d28e4/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/ef160582d9ced6a6afb1b8a9b34d28e4/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/06be0f79d1a9ee8097f6edd392c10ed8/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/06be0f79d1a9ee8097f6edd392c10ed8/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/7e598fe5274f7c88281a3735feeaf38a/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/7e598fe5274f7c88281a3735feeaf38a/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/e10175d6784b7193fc1cf54db3f6a662/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/e10175d6784b7193fc1cf54db3f6a662/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/d8a445fabc2a888f7e88475a3dcd8577/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/d8a445fabc2a888f7e88475a3dcd8577/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/cdea62176c5344ba01a047473a51661d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/cdea62176c5344ba01a047473a51661d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/masashihamaguchi/.gradle/caches/transforms-3/bd62a4f6593bf314d33a647621f66cab/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/masashihamaguchi/.gradle/caches/transforms-3/bd62a4f6593bf314d33a647621f66cab/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/6175808707332d623f043378b1a7a046/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/6175808707332d623f043378b1a7a046/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/masashihamaguchi/.gradle/caches/transforms-3/dff0ee1e67a355b7a8c0ab15308bf93c/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/masashihamaguchi/.gradle/caches/transforms-3/dff0ee1e67a355b7a8c0ab15308bf93c/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/masashihamaguchi/.gradle/caches/transforms-3/346e245ee5303127616013f4129c07fb/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/masashihamaguchi/.gradle/caches/transforms-3/346e245ee5303127616013f4129c07fb/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/34ac0e127232cb4c074c6b9300617ac5/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/34ac0e127232cb4c074c6b9300617ac5/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/masashihamaguchi/.gradle/caches/transforms-3/193ef0a0ab421773242fea2b8974b7fb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/masashihamaguchi/.gradle/caches/transforms-3/193ef0a0ab421773242fea2b8974b7fb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/385e8ce12d1371bff230eca63def0f68/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/385e8ce12d1371bff230eca63def0f68/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/1ae2bd3ff9a09cb6fd5893b299d15a2b/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/1ae2bd3ff9a09cb6fd5893b299d15a2b/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/masashihamaguchi/.gradle/caches/transforms-3/32d5f815a23307d03ee8d8282862d847/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/masashihamaguchi/.gradle/caches/transforms-3/32d5f815a23307d03ee8d8282862d847/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/52125dcc3f2f02d877ea896705f55097/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/52125dcc3f2f02d877ea896705f55097/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/f18410acc3e6944b348ee3d2709a2e52/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/f18410acc3e6944b348ee3d2709a2e52/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/814791cd8f4ea84cc1f9795fcb45c33f/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/814791cd8f4ea84cc1f9795fcb45c33f/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/7946a530e1ad1ca946cceb70b8b7633b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/7946a530e1ad1ca946cceb70b8b7633b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/e9b3f6db90cf33f87f20639860e50643/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/e9b3f6db90cf33f87f20639860e50643/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/700dd1aa384a85d83c13b368db16bc17/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/masashihamaguchi/.gradle/caches/transforms-3/700dd1aa384a85d83c13b368db16bc17/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/masashihamaguchi/Development/Android/OriginalApp/TreasureHunting/app/src/main/AndroidManifest.xml
+INJECTED from /Users/masashihamaguchi/Development/Android/OriginalApp/TreasureHunting/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/masashihamaguchi/Development/Android/OriginalApp/TreasureHunting/app/src/main/AndroidManifest.xml
+		ADDED from /Users/masashihamaguchi/Development/Android/OriginalApp/TreasureHunting/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/masashihamaguchi/Development/Android/OriginalApp/TreasureHunting/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/masashihamaguchi/Development/Android/OriginalApp/TreasureHunting/app/src/main/AndroidManifest.xml
+		ADDED from /Users/masashihamaguchi/Development/Android/OriginalApp/TreasureHunting/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/masashihamaguchi/Development/Android/OriginalApp/TreasureHunting/app/src/main/AndroidManifest.xml

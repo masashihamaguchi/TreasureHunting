@@ -1,0 +1,1 @@
+com.picopico.treasurehunting.test
